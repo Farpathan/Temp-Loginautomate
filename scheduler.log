@@ -1,0 +1,192 @@
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+
+--- Scheduler running at 2025-06-22 20:30:01 ---
+Sending notification: 📋 *Automation Skipped* 📋
+
+Today is Sunday. No actions will be performed.
+
+--- Scheduler running at 2025-06-23 06:45:01 ---
+No action required at this time.
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+
+--- Scheduler running at 2025-06-23 20:30:01 ---
+Sending notification: 🔔 *Starting TimeIn Automation* 🔔
+--- ERROR for user GS3229 ---
+--- Starting Beehive Automation for GS3229 ---
+FATAL: Error setting up ChromeDriver: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+--- Automation aborted due to driver setup failure. ---
+
+
+--- END ERROR ---
+--- ERROR for user Start ---
+--- Starting Beehive Automation for Start ---
+FATAL: Error setting up ChromeDriver: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+--- Automation aborted due to driver setup failure. ---
+
+
+--- END ERROR ---
+Sending notification: ✅ *Automation Summary for TimeIn* ✅
+
+Failed for: GS3229, Start
+
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+
+--- Scheduler running at 2025-06-24 06:45:01 ---
+Sending notification: 🔔 *Starting TimeOut Automation* 🔔
+--- ERROR for user GS3229 ---
+--- Starting Beehive Automation for GS3229 ---
+FATAL: Error setting up ChromeDriver: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+--- Automation aborted due to driver setup failure. ---
+
+
+--- END ERROR ---
+--- ERROR for user Start ---
+--- Starting Beehive Automation for Start ---
+FATAL: Error setting up ChromeDriver: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+--- Automation aborted due to driver setup failure. ---
+
+
+--- END ERROR ---
+Sending notification: ✅ *Automation Summary for TimeOut* ✅
+
+Failed for: GS3229, Start
+
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+
+--- Scheduler running in LIVE mode at 2025-06-24 20:30:02 ---
+Sending notification: 🔔 *Starting TimeIn Automation* 🔔
+--- ERROR for user GS3229 ---
+FATAL: Error setting up ChromeDriver: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+
+
+--- END ERROR ---
+--- ERROR for user GS2555 ---
+FATAL: Error setting up ChromeDriver: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+
+
+--- END ERROR ---
+Sending notification: ✅ *Automation Summary for TimeIn* ✅
+
+Failed for: GS3229, GS2555
+
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+
+--- Scheduler running in LIVE mode at 2025-06-25 06:45:01 ---
+Sending notification: 🔔 *Starting TimeOut Automation* 🔔
+--- ERROR for user GS3229 ---
+INFO: Attempting to start ChromeDriver with new stability flags...
+FATAL: Error setting up ChromeDriver: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+
+
+--- END ERROR ---
+--- ERROR for user GS2555 ---
+INFO: Attempting to start ChromeDriver with new stability flags...
+FATAL: Error setting up ChromeDriver: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+
+
+--- END ERROR ---
+Sending notification: ✅ *Automation Summary for TimeOut* ✅
+
+Failed for: GS3229, GS2555
+
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+
+--- Scheduler running in LIVE mode at 2025-06-25 20:30:01 ---
+Sending notification: 🔔 *Starting TimeIn Automation* 🔔
+--- ERROR for user GS3229 ---
+INFO: Attempting to start ChromeDriver with new stability flags...
+FATAL: Error setting up ChromeDriver: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+
+
+--- END ERROR ---
+--- ERROR for user GS2555 ---
+INFO: Attempting to start ChromeDriver with new stability flags...
+FATAL: Error setting up ChromeDriver: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+
+
+--- END ERROR ---
+Sending notification: ✅ *Automation Summary for TimeIn* ✅
+
+Failed for: GS3229, GS2555
+
+--- Wrapper script started at Thu Jun 26 01:15:01 UTC 2025 ---
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+
+--- Scheduler running in LIVE mode at 2025-06-26 06:45:02 ---
+Sending notification: 🔔 *Starting TimeOut Automation* 🔔
+Sending notification: ✅ *Automation Summary for TimeOut* ✅
+
+Successfully processed: GS3229, GS2555
+
+--- Wrapper script finished at Thu Jun 26 01:15:38 UTC 2025 ---
+--- Wrapper script started at Thu Jun 26 15:00:01 UTC 2025 ---
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.4.0) or chardet (4.0.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+Notification sent successfully.
+
+--- Scheduler running in LIVE mode at 2025-06-26 20:30:02 ---
+Sending notification: 🔔 *Starting TimeIn Automation* 🔔
+--- ERROR for user GS3229 ---
+INFO: Attempting to start ChromeDriver with new stability flags...
+FATAL: Error setting up ChromeDriver: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+
+
+--- END ERROR ---
+--- ERROR for user GS2555 ---
+INFO: Attempting to start ChromeDriver with new stability flags...
+FATAL: Error setting up ChromeDriver: Message: Service /usr/bin/chromedriver unexpectedly exited. Status code was: 1
+
+
+
+--- END ERROR ---
+Sending notification: ✅ *Automation Summary for TimeIn* ✅
+
+Failed for: GS3229, GS2555
+
+--- Wrapper script finished at Thu Jun 26 15:00:04 UTC 2025 ---
